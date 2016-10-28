@@ -1,0 +1,29 @@
+p{
+	font-family:"Verdana";
+	width:50%;
+	text-align: center;
+	font-weight: normal;
+}
+
+body{
+	text-align: center;
+	background-color: #b3b3ff;
+}
+
+h1{
+	font-family:"futura";
+}
+
+li1{
+	display: inline;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    border-right: 1px solid #bbb;
+    background-color: #808080;
+}
+
+/* Change the link color to #111 (black) on hover */
+li1:hover {
+    background-color: #111;
+}
